@@ -1,1 +1,1 @@
-Recipse App
+Recipe App
