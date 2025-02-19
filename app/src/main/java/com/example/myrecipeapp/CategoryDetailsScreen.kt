@@ -41,5 +41,4 @@ fun CategoryDetailsScreen(category: Category) {
             )
         )
     }
-
 }
